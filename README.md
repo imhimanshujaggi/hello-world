@@ -1,2 +1,6 @@
 # hello-world
-First Repository to test
+Hi Everyone,
+I'm Himanshu, an aspiring Data Scientist. Looking forward to learn from you all.
+
+Thanks
+Himanshu
